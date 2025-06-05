@@ -1,0 +1,12 @@
+Input: a = 10, b = 4, c = 7, d = 9
+Output: 11
+Explanation: 10 + 4 = 14, 14 // 7 = 2(Python) or 14 / 7 = 2(Java or CPP or C), 2 + 9 = 11
+
+
+code 
+
+class Solution:
+    def calculate(self, a: int, b: int, c: int, d: int) -> int:
+        
+        
+        return (a + b) // c + d
