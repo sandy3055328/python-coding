@@ -1,0 +1,7 @@
+def apTerm(a,d,n):
+a = 8
+n = 7
+d = 5
+
+ans = a + (n-1)*d
+return ans
