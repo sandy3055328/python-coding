@@ -1,0 +1,10 @@
+def evalute(a, b, c, d):
+    
+    res = a + b 
+    
+    res1 = res // c
+    
+    res2 = res1 + d
+  
+   
+    print(res2)
